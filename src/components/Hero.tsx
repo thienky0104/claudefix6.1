@@ -103,7 +103,7 @@ const Hero = forwardRef<HTMLElement>((_props, ref) => {
               className="hero-content-item hero-description text-white/65"
               style={{ fontFamily: "'Inter', sans-serif" }}
             >
-              Salon tóc nữ tại Lái Thiêu, Thuận An, chuyên cắt, uốn, nhuộm, duỗi và phục hồi tóc. Mỗi kiểu tóc được tư vấn dựa trên chất tóc, khuôn mặt và phong cách riêng để bạn có một mái tóc đẹp, dễ chăm sóc và phù hợp với mình.
+              Salon tóc nữ tại Lái Thiêu, Thuận An, chuyên cắt, uốn, nhuộm, duỗi và phục hồi tóc. Mỗi kiểu tóc được tư vấn dựa trên chất tóc, khuôn mặt và phong cách riêng để bạn có một mái tóc đẹp, dễ chăm sóc và phù hợp với bạn.
             </p>
 
             <div className="hero-content-item hero-cta-row pointer-events-auto mt-10 flex items-center gap-2 md:gap-4">
