@@ -21,7 +21,9 @@ export default function BookingCTA() {
           className="mx-auto mt-6 max-w-[520px] text-[15px] leading-[1.8] text-[#7a6b5d] md:text-[16px]"
           style={{ fontFamily: "'Inter', sans-serif" }}
         >
-          Hãy để chúng tôi chăm sóc mái tóc của bạn. Đặt lịch hẹn để nhận tư vấn cá nhân hóa, chọn kiểu tóc và dịch vụ phù hợp, và trải nghiệm dịch vụ chu đáo tại Triệu Tóc Đẹp.
+          Hãy để chúng tôi chăm sóc mái tóc của bạn. 
+           <br />
+          Đặt lịch hẹn để nhận tư vấn cá nhân hóa, chọn kiểu tóc và dịch vụ phù hợp, và trải nghiệm dịch vụ chu đáo tại Triệu Tóc Đẹp.
         </p>
         <div className="mt-10">
           <a
