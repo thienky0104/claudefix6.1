@@ -44,19 +44,19 @@ export default function Stylists() {
             className="text-[11px] uppercase tracking-[0.3em] text-[#7a6b5d]"
             style={{ fontFamily: "'JetBrains Mono', monospace" }}
           >
-            Đội Ngũ
+            Team
           </span>
           <h2
             className="text-[32px] leading-[1.1] tracking-tight text-[#2a221c] md:text-[44px]"
             style={{ fontFamily: "'Newsreader', serif", fontWeight: 400 }}
           >
-            Gặp Gỡ Đội Ngũ Tạo Mẫu Tại Lái Thiêu
+            Các Nhà Tạo Mẫu
           </h2>
           <p
             className="max-w-[640px] text-[15px] leading-[1.7] text-[#7a6b5d]"
             style={{ fontFamily: "'Inter', sans-serif" }}
           >
-            Đội ngũ thợ tóc tại Triệu Tóc Đẹp chuyên cắt, uốn, nhuộm và duỗi tóc nữ, tư vấn kiểu phù hợp với từng khách hàng ở Lái Thiêu, Thuận An.
+            Đội ngũ thiết kế tóc tại Triệu Tóc Đẹp chuyên thiết kế & tư vấn kiểu các kiểu tóc phù hợp với từng cá nhân tại Lái Thiêu, Thuận An.
           </p>
         </div>
 
