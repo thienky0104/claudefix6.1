@@ -119,7 +119,7 @@ export default function MapSection() {
             className="text-[32px] leading-[1.1] tracking-tight text-[#2a221c] md:text-[44px]"
             style={{ fontFamily: "'Newsreader', serif", fontWeight: 400 }}
           >
-            Tới Triệu Tóc Đẹp Ở Lái Thiêu, Thuận An
+            Hãy Đến Salon Của Chúng Tôi
           </h2>
         </div>
 
