@@ -44,7 +44,7 @@ export default function HairGallery() {
             className="max-w-[480px] text-[14px] leading-[1.8] text-[#7a6b5d] md:text-[15px]"
             style={{ fontFamily: "'Inter', sans-serif" }}
           >
-            Tuyển tập các kiểu tóc nam & nữ được thực hiện tại salon ở Lái Thiêu — từ những đường cắt tỉa tỉ mỉ, kiểu uốn tự nhiên đến những phối màu nhuộm đa chiều, Triệu Salon sẽ mang đến những kiểu tóc vượt mong đợi của bạn.
+            Tuyển tập các kiểu tóc nam & nữ được thực hiện tại salon ở Lái Thiêu, từ những đường cắt tỉa tỉ mỉ, kiểu uốn tự nhiên đến những phối màu nhuộm đa chiều. Triệu Salon sẽ mang đến những kiểu tóc vượt mong đợi của bạn.
           </p>
         </div>
 
