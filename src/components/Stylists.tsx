@@ -29,16 +29,6 @@ const STYLISTS = [
   role: 'Chuyên Gia Tóc Ngắn',
   img: 'https://res.cloudinary.com/o5ikznlv/image/upload/f_auto,q_auto:eco,dpr_auto,c_fill,ar_3:4,w_400/v1786085799/2026-08-07_13-46-34_Lumina_1_vdixhx.jpg',
 },
-{
-  name: 'Gia Huy',
-  role: 'Chuyên Gia Balayage',
-  img: 'https://res.cloudinary.com/o5ikznlv/image/upload/f_auto,q_auto:eco,dpr_auto,c_fill,ar_3:4,w_400/v1786087019/2026-08-07_14-16-57_Lumina_1_rf8v01.jpg',
-},
-{
-  name: 'Thanh Trà',
-  role: 'Chuyên Gia Nối Tóc',
-  img: 'https://res.cloudinary.com/o5ikznlv/image/upload/f_auto,q_auto:eco,dpr_auto,c_fill,ar_3:4,w_400/v1786086989/2026-08-07_14-14-44_Lumina_1_xcpulk.jpg',
-},
 ];
 
 export default function Stylists() {
@@ -71,7 +61,7 @@ export default function Stylists() {
         </div>
 
         <div
-          className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4"
+          className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
           style={{ columnGap: '32px', rowGap: '56px' }}
         >
           {STYLISTS.map((stylist) => (
