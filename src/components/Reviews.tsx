@@ -1,8 +1,8 @@
 const REVIEWS = [
   {
-    name: 'Nguyễn Thị Mai',
+    name: 'Tố Nga',
     service: 'Nhuộm & Uốn',
-    text: 'Màu tóc lên chuẩn từng sợi, đội ngũ tư vấn rất nhiệt tình. Không gian salon sang trọng và thoải mái.',
+    text: 'Uốn tóc từ trước tết tới giờ vẫn giữ nếp rất ok, thái độ phục vụ của tiệm cx rất tốt 👍',
   },
   {
     name: 'Trần Thanh Hằng',
@@ -10,34 +10,34 @@ const REVIEWS = [
     text: 'Kiểu tóc cắt tỉa rất tinh tế, đúng như mình mong muốn. Liệu trình phục hồi giúp tóc mềm mại trở lại.',
   },
   {
-    name: 'Lê Hoàng Yến',
-    service: 'Tẩy & Ombré',
-    text: 'Tẩy tóc an toàn, không bị khô xơ. Hiệu ứng ombré tự nhiên và rất hợp với nước da của mình.',
+    name: 'Khang Nguyễn',
+    service: 'Nhuộm tóc',
+    text: 'Đã làm tóc ở đây được 2 năm nhân viên rất hòa đồng nhiệt tình! Gotcha.',
   },
   {
-    name: 'Phạm Ngọc Diệp',
+    name: 'Nguyễn Hương',
     service: 'Uốn Hàn Quốc',
-    text: 'Tóc uốn xoăn tự nhiên, giữ nếp lâu mà không bị rít. Mọi người ở salon đều rất tâm huyết.',
+    text: 'Làm tóc ở tiệm cx cỡ 5 năm rồi , rất ưng ý. Uốn tóc và cắt tóc đều đúng với yêu cầu, thái độ nhiệt tình với khách hàng.',
   },
   {
-    name: 'Võ Minh Khuê',
+    name: 'Het Cao Van',
     service: 'Cắt Layer & Style',
-    text: 'Layer cắt bay bổng mà vẫn gọn gàng, mình rất ưng. Sẽ giới thiệu bạn bè đến thử.',
+    text: '10đ a làm tóc hoà đồng thân thiện lắm luôn, giá tốt.',
   },
   {
-    name: 'Đặng Thu Hà',
+    name: 'Si Bu',
     service: 'Nhuộm Balayage',
-    text: 'Balayage lên màu mượt mà, chuyển sắc cực kỳ tự nhiên. Salon tư vấn kỹ lưỡng trước khi làm.',
+    text: 'Tiệm làm tóc tóc ưng quá chừng 😘, uốn nhuộm 1 lần luôn mà vẫn còn mượt, dịch vụ tốt, nhiệt tình lắm nhee😍😍',
   },
   {
-    name: 'Bùi Khánh Linh',
+    name: 'Phố Ngô',
     service: 'Phục Hồi Tóc',
-    text: 'Tóc hư nặng sau nhiều lần tẩy, sau liệu trình phục hồi ở đây mà mềm mượt bất ngờ.',
+    text: 'Anh chủ salon rất tâm , tư vấn phù hợp với từng loại tóc cỉa mình , mấy bạn nhân viên đều rất thân thiện.',
   },
   {
-    name: 'Hoàng Thùy Trang',
+    name: 'Hải Yến',
     service: 'Nối Tóc',
-    text: 'Nối tóc tự nhiên, không thấy vết nối. Mình yên tâm giao tóc cho các nhà tạo mẫu ở đây.',
+    text: 'Trải nghiệm xứng đáng 5 sao. Không gian sang trọng, phong cách chuyên nghiệp.',
   },
 ];
 

@@ -62,6 +62,12 @@ export default function Stylists() {
           >
             Gặp Gỡ Đội Ngũ Tạo Mẫu Tại Lái Thiêu
           </h2>
+          <p
+            className="max-w-[640px] text-[15px] leading-[1.7] text-[#7a6b5d]"
+            style={{ fontFamily: "'Inter', sans-serif" }}
+          >
+            Đội ngũ thợ tóc tại Triệu Tóc Đẹp chuyên cắt, uốn, nhuộm và duỗi tóc nữ, tư vấn kiểu phù hợp với từng khách hàng ở Lái Thiêu, Thuận An.
+          </p>
         </div>
 
         <div

@@ -53,7 +53,6 @@ export default function Footer() {
             >
               08:00 – 20:00 (Thứ Hai – Thứ Bảy)<br />
               Chủ Nhật: Nghỉ
-              Chủ Nhật: Nghỉ
             </p>
           </div>
 
