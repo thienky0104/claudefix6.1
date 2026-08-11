@@ -59,7 +59,7 @@ export default function HairGallery() {
             >
               <img
                 src={src}
-                alt={`Kiểu tóc nữ thực tế tại Triệu Tóc Đẹp Lái Thiêu ${i + 1}`}
+                alt={`Kiểu tóc nam nữ thực tế tại Triệu Tóc Đẹp Lái Thiêu ${i + 1}`}
                 loading="lazy"
                 className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.03]"
               />
