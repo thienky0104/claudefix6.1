@@ -15,13 +15,13 @@ export default function BookingCTA() {
           className="mt-6 text-[36px] leading-[1.1] tracking-tight text-[#2a221c] md:text-[56px]"
           style={{ fontFamily: "'Newsreader', serif", fontWeight: 300 }}
         >
-          Đặt Lịch Ngay Hôm Nay
+          Đặt Lịch Tại Lái Thiêu
         </h2>
         <p
           className="mx-auto mt-6 max-w-[520px] text-[15px] leading-[1.8] text-[#7a6b5d] md:text-[16px]"
           style={{ fontFamily: "'Inter', sans-serif" }}
         >
-          Hãy để chúng tôi chăm sóc mái tóc của bạn. Đặt lịch hẹn để nhận tư vấn cá nhân hóa và trải nghiệm dịch vụ cao cấp tại Triệu Tóc Đẹp.
+          Đặt lịch để được tư vấn kiểu tóc và dịch vụ phù hợp với bạn tại Triệu Tóc Đẹp, Lái Thiêu, Thuận An.
         </p>
         <div className="mt-10">
           <a

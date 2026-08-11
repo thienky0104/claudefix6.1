@@ -43,7 +43,7 @@ const Hero = forwardRef<HTMLElement>((_props, ref) => {
       <div className="absolute inset-0">
         <img
           src={HERO_IMG}
-          alt="Mẫu tóc Triệu Tóc Đẹp"
+          alt="Kiểu tóc nữ tại Triệu Tóc Đẹp, tiệm cắt tóc nữ ở Lái Thiêu, Thuận An"
           className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#1c1612]/30 via-transparent to-[#1c1612]" />
@@ -103,7 +103,7 @@ const Hero = forwardRef<HTMLElement>((_props, ref) => {
               className="hero-content-item hero-description text-white/65"
               style={{ fontFamily: "'Inter', sans-serif" }}
             >
-              Tiêu chuẩn mới trong nghệ thuật tạo mẫu tóc. Cắt tỉa chính xác, màu tóc đa chiều, và các liệu trình chăm sóc được thiết kế riêng cho từng khách hàng — bởi những nhà tạo mẫu coi mỗi mái tóc như một tác phẩm.
+              Tiệm cắt tóc nữ tại Lái Thiêu, Thuận An, chuyên cắt, uốn, nhuộm và duỗi tóc. Tư vấn kiểu phù hợp với chất tóc và phong cách của bạn.
             </p>
 
             <div className="hero-content-item hero-cta-row pointer-events-auto mt-10 flex items-center gap-2 md:gap-4">

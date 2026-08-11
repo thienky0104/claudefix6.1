@@ -119,7 +119,7 @@ export default function MapSection() {
             className="text-[32px] leading-[1.1] tracking-tight text-[#2a221c] md:text-[44px]"
             style={{ fontFamily: "'Newsreader', serif", fontWeight: 400 }}
           >
-            Hãy đến salon của chúng tôi
+            Tới Triệu Tóc Đẹp Ở Lái Thiêu, Thuận An
           </h2>
         </div>
 
@@ -208,7 +208,7 @@ export default function MapSection() {
               <img
                 ref={imgRef}
                 src={MAP_IMAGE}
-                alt="Map showing Triệu Tóc Đẹp salon location"
+                alt="Bản đồ chỉ đường tới Triệu Tóc Đẹp, tiệm cắt tóc nữ ở Lái Thiêu, Thuận An"
                 loading="lazy"
                 decoding="async"
                 className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover/map:scale-[1.03]"

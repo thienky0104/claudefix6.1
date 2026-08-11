@@ -42,13 +42,13 @@ export default function HairGallery() {
             className="text-[32px] leading-[1.1] tracking-tight text-[#2a221c] md:text-[44px]"
             style={{ fontFamily: "'Newsreader', serif", fontWeight: 400 }}
           >
-            Bộ Sưu Tập Tóc Đẹp
+            Những Kiểu Tóc Nữ Thực Tế
           </h2>
           <p
             className="max-w-[480px] text-[14px] leading-[1.8] text-[#7a6b5d] md:text-[15px]"
             style={{ fontFamily: "'Inter', sans-serif" }}
           >
-            Một tuyển tập những kiểu tóc được thực hiện tại salon — từ những đường cắt tỉa tinh tế đến những phối màu đa chiều, mỗi hình ảnh là một câu chuyện hoàn chỉnh.
+            Tham khảo các kiểu tóc nữ được thực hiện tại salon ở Lái Thiêu, từ tóc cắt layer, uốn tự nhiên đến các màu nhuộm dễ hợp với nhiều phong cách.
           </p>
         </div>
 
@@ -63,7 +63,7 @@ export default function HairGallery() {
             >
               <img
                 src={src}
-                alt={`Mẫu tóc ${i + 1}`}
+                alt={`Kiểu tóc nữ thực tế tại Triệu Tóc Đẹp Lái Thiêu ${i + 1}`}
                 loading="lazy"
                 className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.03]"
               />

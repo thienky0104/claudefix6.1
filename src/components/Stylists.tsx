@@ -60,7 +60,7 @@ export default function Stylists() {
             className="text-[32px] leading-[1.1] tracking-tight text-[#2a221c] md:text-[44px]"
             style={{ fontFamily: "'Newsreader', serif", fontWeight: 400 }}
           >
-            Gặp Gỡ Nhà Tạo Mẫu
+            Gặp Gỡ Đội Ngũ Tạo Mẫu Tại Lái Thiêu
           </h2>
         </div>
 
@@ -73,7 +73,7 @@ export default function Stylists() {
               <div className="aspect-[4/5] overflow-hidden rounded-xl bg-[#f0ebe2]">
                 <img
                   src={stylist.img}
-                  alt={stylist.name}
+                  alt={`${stylist.name}, ${stylist.role} tại Triệu Tóc Đẹp Lái Thiêu`}
                   loading="lazy"
                   decoding="async"
                   className="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.03]"

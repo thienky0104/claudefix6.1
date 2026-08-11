@@ -64,13 +64,13 @@ export default function VideoShowcase() {
               className="text-[32px] leading-[1.1] tracking-tight text-[#2a221c] md:text-[44px]"
               style={{ fontFamily: "'Newsreader', serif", fontWeight: 400 }}
             >
-              Những Khoảnh Khắc Biến Hóa
+              Niềm Vui Của Khách Hàng Tại Triệu Salon
             </h2>
             <p
               className="max-w-[480px] text-[14px] leading-[1.8] text-[#7a6b5d] md:text-[15px]"
               style={{ fontFamily: "'Inter', sans-serif" }}
             >
-              Câu chuyện của từng mái tóc — từ khoảnh khắc trước khi chạm tay nghệ nhân đến hình ảnh hoàn mỹ cuối cùng.
+              Hãy xem những trải nghiệm và kiểu tóc thực tế của khách hàng tại Lái Thiêu.
             </p>
           </div>
 

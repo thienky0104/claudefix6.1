@@ -15,7 +15,7 @@ export default function Footer() {
               className="text-[13px] leading-[1.8] text-white/50"
               style={{ fontFamily: "'Inter', sans-serif" }}
             >
-              Salon tóc cao cấp Lái Thiêu. Nơi mỗi mái tóc là một tác phẩm nghệ thuật.
+              Tiệm cắt tóc nữ tại Lái Thiêu, Thuận An. Chuyên cắt, uốn, nhuộm, duỗi và phục hồi tóc với giá hợp lý.
             </p>
           </div>
 
