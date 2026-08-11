@@ -161,7 +161,7 @@ export default function ServicesPricing() {
             className="max-w-[500px] text-[14px] leading-[1.8] text-[#7a6b5d] md:text-[15px]"
             style={{ fontFamily: "'Inter', sans-serif" }}
           >
-            Bảng giá cắt, uốn, nhuộm và duỗi tóc tại salon tóc nữ ở Lái Thiêu, Thuận An, với mức giá hợp lý.
+            Bảng giá dịch vụ tại salon với các mức giá hợp lý và nhiều ưu đãi.
           </p>
         </div>
 
