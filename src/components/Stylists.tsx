@@ -1,7 +1,7 @@
 const STYLISTS = [
   {
   name: 'Minh Quân',
-  role: 'Creative Director',
+  role: 'Chuyên Gia Thiết Kế',
   img: 'https://res.cloudinary.com/o5ikznlv/image/upload/f_auto,q_auto:eco,dpr_auto,c_fill,ar_3:4,w_400/v1786085792/2026-08-07_13-49-58_Lumina_1_krtozn.jpg',
 },
 {
